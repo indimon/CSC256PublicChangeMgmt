@@ -3,7 +3,7 @@ name: Feature request
 about: A Feature is a request for new function, and not related to something that
   must be "fixed."
 title: 'Feature Request 2'
-labels: 'n/a'
+labels: 'feature'
 assignees: 'India Rowe'
 
 ---
@@ -49,7 +49,3 @@ TBD
 
 **Cost**
 TBD
-
-
-**Comment**
-Feature rejected
