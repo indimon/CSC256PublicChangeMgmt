@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: 'Bug 1'
-labels: 'n/a'
+labels: 'bug'
 assignees: 'India Rowe'
 
 ---
