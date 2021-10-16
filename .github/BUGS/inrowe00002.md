@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: 'Bug 2'
-labels: 'n/a'
+labels: 'bug'
 assignees: 'India Rowe'
 
 ---
@@ -102,7 +102,3 @@ One of
 * Migration
 * Standards
 * Integrity/Security
-
-
-**Comment**
-Fix completed
